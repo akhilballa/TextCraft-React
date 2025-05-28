@@ -26,12 +26,11 @@ This build is ready for deployment.
 
 ---
 
-###  Technologies Used
+### Technologies Used
 
-# React (via Create React App)
-# JavaScript
-# Node.js and npm
+- React (via Create React App)  
+- JavaScript  
+- Node.js and npm
 
 ---
 
-Feel free to customize this README further to fit your project’s unique features!
