@@ -13,10 +13,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view it.
 Any saved changes will cause the page to reload automatically.  
 You’ll also find any lint warnings or errors in the console.
 
+---
+
 ### `npm test`
 
 Runs the test suite in watch mode.
 Useful for validating the functionality of your components during development.
+
+---
 
 ### `npm run build`
 
